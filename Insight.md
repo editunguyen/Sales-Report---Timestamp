@@ -1,3 +1,6 @@
+![Screenshot 2025-01-28 022819](https://github.com/user-attachments/assets/68c018bd-92af-4c7e-866b-98c7e7e261d1)
+
+
 # Dashboard Insights
 
 The data from the dashboard is sourced from a company providing IT and cybersecurity solutions to clients across various industries. The data reveals some notable insights as follows:
