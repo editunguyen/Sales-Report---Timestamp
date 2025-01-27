@@ -13,15 +13,15 @@ The data from the dashboard is sourced from a company providing IT and cybersecu
 
 ## Top Industry by Transaction Volume and Revenue
 
-- The **Finance sector** recorded the highest transaction volume and total revenue, with significant growth in both metrics compared to other industries.
-- This highlights the **Finance sector** as a major contributor to the company’s revenue, making it a key area for further development and investment.
+- The **Federal Government sector** recorded the highest transaction volume and total revenue, with significant growth in both metrics compared to other industries.
+- This highlights the **Federal Government** as a major contributor to the company’s revenue, making it a key area for further development and investment.
 
 ## Product Performance
 
-- The product code **"PLATINUM-SU"** had the highest number of opportunities with **2.68K (22.81%)**.
+- The product code **"MD-PLTF"** had the highest number of opportunities with **2.68K (22.81%)**.
 - Other standout product codes include:
-  - **"MD-PLTF"**: **1.31K (11.18%)**.
-  - **"MD-ICAP-SERV"**: **1.51K (12.81%)**.
+  - **"MD-PLTF-CORE-FLOW"**: **1.31K (11.18%)**.
+  - **"MD-DCDR"**: **1.51K (12.9%)**.
 - These products are performing well and should be prioritized in marketing and sales strategies.
 
 ## Sales Region Analysis
