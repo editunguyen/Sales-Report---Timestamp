@@ -1,4 +1,5 @@
 ![Screenshot 2025-01-28 022819](https://github.com/user-attachments/assets/68c018bd-92af-4c7e-866b-98c7e7e261d1)
+![Screenshot 2025-01-28 023638](https://github.com/user-attachments/assets/ae63e1b1-0f16-4ec2-bd8f-a6ca2c7c3ee1)
 
 
 # Dashboard Insights
